@@ -97,9 +97,9 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/saravanan-k-827261278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-k-827261278/)
 [![Gmail](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:saro.05.11.04@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/saravanan.05?igsh=a3ZiZ2EzeTlsZXc=)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/___saravanan.05___?igsh=a3ZiZ2EzeTlsZXc=)
 
 ---
 
